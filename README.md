@@ -1,3 +1,3 @@
-# bank-app
+# React Bank App + Redux
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/bank-app)
+This project was built to learn how to use Redux in a simple, yet useful context.
